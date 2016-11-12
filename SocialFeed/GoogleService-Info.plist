@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>609988163091-l5cvlj137luumk22os0ccosfgu1lm2tn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.609988163091-l5cvlj137luumk22os0ccosfgu1lm2tn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC4736Kcyx0RStClV87nH5BKD4Fbz1hWi8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>609988163091</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Everipedia.SocialFeed</string>
+	<key>PROJECT_ID</key>
+	<string>socialfeed-23cef</string>
+	<key>STORAGE_BUCKET</key>
+	<string>socialfeed-23cef.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:609988163091:ios:ded6879ab8512da3</string>
+	<key>DATABASE_URL</key>
+	<string>https://socialfeed-23cef.firebaseio.com</string>
+</dict>
+</plist>
